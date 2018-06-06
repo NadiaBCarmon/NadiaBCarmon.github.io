@@ -1,0 +1,64 @@
+#index-background {
+	background-color: white;
+	height: 100vh;
+	width: 100vw;
+}
+
+nav {
+	background-color: #323dbc;
+	/*border: thin;
+	border-style: solid;*/
+}
+
+div.nav-wrapper a {
+	color: #ffffff;
+}
+
+#logo-plain {
+	height: 56px;
+	width: 90px;
+	overflow: none;
+}
+
+#brand-logo {
+}
+
+#container {
+	border-color: black;
+	border: thin;
+	border-style: solid;
+}
+
+#left {
+	width: 50%;
+	height: 100vh;
+	display: inline-block;
+	float: left;
+
+	/*background-color: #323dbc;*/
+	display: inline-flex;
+	border-color: black;
+	border: thin;
+	border-style: solid;
+}
+
+#software {
+	margin-left: 2%;
+
+}
+
+#right {
+	width: 50%;
+	height: 100vh;
+	display: inline-block;
+	/*background-color: #323dbc;*/
+	display: inline-flex;
+	border-color: black;
+	border: thin;
+	border-style: solid;
+}
+
+#content {
+	margin-left: 2%;
+
+}
